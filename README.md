@@ -11,7 +11,6 @@
 - 💻 I use **.java**, **.py**, and **.dart** the most.
 - 🔭 I’m currently working on [Stock Market Portfolio Management App](https://github.com/thecoderenroute/stock-portfolio-management)
 - 🌱 I’m currently learning **Spring framework, Machine Learning, APIs**
-- 👯 I’m looking to collaborate on [Re_imagine](https://github.com/thecoderenroute/ReImagine-App)
 - 👨‍💻 All of my projects are available at [thecoderenroute.github.io](thecoderenroute.github.io)
 - 📫 How to reach me **hardik.kapadia63@gmail.com**
 - 📄 Know about my experiences [https://bit.ly/3pYdnnG](https://bit.ly/3pYdnnG)
