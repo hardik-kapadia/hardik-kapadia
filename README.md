@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Stock Market Portfolio Management App](https://github.com/thecoderenroute/stock-portfolio-management)
 - 🌱 I’m currently learning **Spring framework, Machine Learning, APIs**
 - 👨‍💻 All of my projects are available at [thecoderenroute.github.io](thecoderenroute.github.io)
-- 📫 How to reach me **hardik.kapadia63@gmail.com**
+- 📫 Reach me here **hardik.kapadia63@gmail.com**
 - 📄 Know about my experiences [https://bit.ly/3pYdnnG](https://bit.ly/3pYdnnG)
 - 🎮 I am currently playing **Skyrim**, **Halo** and **Valorant**
 - ⚡ Fun fact: **Simple and sarcastic**
