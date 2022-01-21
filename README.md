@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on [Stock Market Portfolio Management App](https://github.com/thecoderenroute/stock-portfolio-management)
 - 🌱 I’m currently learning **Spring framework, Machine Learning, APIs**
 - 👨‍💻 All of my projects are available at [thecoderenroute.github.io](thecoderenroute.github.io)
-- 📫 Reach me here **hardik.kapadia63@gmail.com**
-- 📄 Know about my experiences [https://bit.ly/3pYdnnG](https://bit.ly/3pYdnnG)
+- 📫 Write to me at **hardik.kapadia63@gmail.com** or [connect with me](#contact)
+- 📄 Know about my experiences [Resume](https://bit.ly/3pYdnnG)
 - 🎮 I am currently playing **Skyrim**, **Halo** and **Valorant**
 - ⚡ Fun fact: **Every 60 seconds in Africe, a minute passes**
 
@@ -27,6 +27,29 @@
 
 <br>
 
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/thecoderenroute/stonks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=stonks&theme=github_dark" />
+  </a>
+  &nbsp&nbsp
+  <a href="https://github.com/thecoderenroute/ReImagine-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=ReImagine-App&theme=github_dark" />
+  </a>
+  <a href="https://github.com/thecoderenroute/BookSMart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=BookSMart&theme=github_dark" />
+  </a>  
+  &nbsp&nbsp
+  <a href="https://github.com/thecoderenroute/AoAlgorithm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=AoAlgorithm&theme=github_dark" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">Github Stats</h3>
+
 <p align="center">
   <img aligh="center" height = "165" src="https://github-readme-stats.vercel.app/api?username=thecoderenroute&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia Stats" />
   <img aligh ="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderenroute&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia's Top Langiuages" />
@@ -35,7 +58,8 @@
 <img height ="165" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hardik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderenroute&theme=neon-dark&hide_border=true"/>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<br>
+<h3 align="center" id = "contact">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/hardik-kapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-kapadia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/thecoderenroute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thecoderenroute" height="30" width="40" /></a>
