@@ -41,8 +41,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=BookSMart&theme=github_dark" />
   </a>  
   &nbsp&nbsp
-  <a href="https://github.com/thecoderenroute/AoAlgorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=AoAlgorithm&theme=github_dark" />
+  <a href="https://github.com/thecoderenroute/stock-portfolio-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=stock-portfolio-management&theme=github_dark" />
   </a>
 </p>
 
