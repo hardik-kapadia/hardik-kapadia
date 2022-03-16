@@ -15,7 +15,6 @@
 - 📫 Write to me at **hardik.kapadia63@gmail.com** or [connect with me](#contact)
 - 📄 Know about my experiences [Resume](https://bit.ly/3pYdnnG)
 - 🎮 I am currently playing **Skyrim**, **Halo** and **Valorant**
-- ⚡ Fun fact: **Every 60 seconds in Africe, a minute passes**
 
 <br>
 <h3 align="center">Languages and Tools</h3>
