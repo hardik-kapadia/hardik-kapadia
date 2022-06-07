@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> <br><br>About Me: </h3>
+<h3 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45px"> About Me: </h3>
 
 - 🏦 I'm tech enthusiast who enjoys reading and exploring.
 - 💬 Talk to me about tech, fiction, games and current affairs.
