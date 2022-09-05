@@ -1,7 +1,6 @@
 <h1 align="center">Hello there, I'm Hardik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> </h1>
 <p align="center"><img src ="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="350px"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thecoderenroute&style=flat" alt="thecoderenroute" /> 
-<img src="https://badges.pufler.dev/commits/monthly/thecoderenroute"/>
 </p>
 
 
@@ -51,11 +50,12 @@
 <h3 align="center">Github Stats</h3>
 
 <p align="center">
+<img height ="165" title="Profile summary" alt="Hardik's Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecoderenroute&theme=vue"/>
+</p>
+
+<p align="center">
   <img aligh="center" height = "165" src="https://github-readme-stats.vercel.app/api?username=thecoderenroute&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia Stats" />
   <img aligh ="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderenroute&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Insta-diagnosis&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia's Top Langiuages" />
-</p>
-<p align="center">
-<img height ="165" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hardik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderenroute&theme=neon-dark&hide_border=true"/>
 </p>
 
 <br>
