@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Hardik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> </h1>
-<p align="center"><img src ="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="350px"></p>
+<p align="center"><img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="350px"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thecoderenroute&style=flat" alt="thecoderenroute" /> 
 </p>
 
@@ -9,27 +9,14 @@
 - 🏦 I'm tech enthusiast who enjoys reading and exploring.
 - 💬 Talk to me about tech, fiction, games and current affairs.
 - 💻 I use **.java**, **.py**, and **.dart** the most.
-- 🔭 I’m currently working on [Stock Market Portfolio Management App](https://github.com/thecoderenroute/stock-portfolio-management)
-- 🌱 I’m currently learning **Spring framework, Machine Learning, APIs**
-- 👨‍💻 All of my projects are available at [thecoderenroute.github.io](thecoderenroute.github.io)
-- 📫 Write to me at **hardik.kapadia63@gmail.com** or [connect with me](#contact)
-- 📄 Know about my experiences [Resume](https://bit.ly/3pYdnnG)
-- 🎮 I am currently playing **Skyrim**, **Halo** and **Valorant**
+- 🌱 I’m currently learning **Machine Learning, GoLang**
+- 👨‍💻 All of my projects are available at [thecoderenroute.github.io]([thecoderenroute.github.io](https://github.com/thecoderenroute?tab=stars))
+- 📫 Write to me at **hardik.kapadia63@gmail.com** or connect with me: <a href="https://linkedin.com/in/hardik-kapadia" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="hardik-kapadia" height="30" width="40" /></a>
+- 📄 Know about my experiences [Resume]()
+- 🎮 I am currently playing **Elden Ring**, **CS2** and **Valorant**
 
-<br>
 
-<h3 align="center" id = "contact">Connect with me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/hardik-kapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-kapadia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/thecoderenroute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thecoderenroute" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/the_nomad_wolf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_nomad_wolf" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lostinthematrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lostinthematrix" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thecoderenroute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecoderenroute" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center"> Languages and Tools </h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
@@ -73,3 +60,6 @@
 <p align='center'>
   <img src= "https://github-profile-trophy.vercel.app/?username=thecoderenroute" alt="trophy">
 </p>
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
