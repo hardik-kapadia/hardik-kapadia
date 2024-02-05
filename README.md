@@ -10,7 +10,7 @@
 - 💬 Talk to me about tech, fiction, games and current affairs.
 - 💻 I use **.java**, **.py**, and **.dart** the most.
 - 🌱 I’m currently learning **Machine Learning, GoLang** <!-- - 👨‍💻 All of my projects are available at [thecoderenroute.github.io]([thecoderenroute.github.io](https://github.com/thecoderenroute?tab=stars)) -->
-- 📫 Write to me at **hardik.kapadia63@gmail.com** or connect with me: <a href="https://linkedin.com/in/hardik-kapadia" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="hardik-kapadia" height="30" width="40" /></a>
+- 📫 Write to me at **hardik.kapadia63@gmail.com** or connect with me: <a href="https://linkedin.com/in/hardik-kapadia" target="blank"><img src="https://img.icons8.com/badges/48/linkedin.png" alt="linkedin" width="30" height="30"/><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="hardik-kapadia" height="30" width="40" /></a>
 - 🚀 To view projects in specific categories, please view the [starred](https://github.com/thecoderenroute?tab=stars) section <!-- - 📄 Know about my experiences [Resume]() -->
 - 🎮 I am currently playing **Elden Ring**, **CS2** and **Valorant**
 
