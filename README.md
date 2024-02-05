@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Hardik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> </h1>
-<p align="center"><img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="350px"></p>
+<p align="center"><img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="285px"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thecoderenroute&style=flat" alt="thecoderenroute" /> 
 </p>
 
@@ -11,10 +11,14 @@
 - 💻 I use **.java**, **.py**, and **.dart** the most.
 - 🌱 I’m currently learning **Machine Learning, GoLang** <!-- - 👨‍💻 All of my projects are available at [thecoderenroute.github.io]([thecoderenroute.github.io](https://github.com/thecoderenroute?tab=stars)) -->
 - 📫 Write to me at **hardik.kapadia63@gmail.com** or connect with me: <a href="https://linkedin.com/in/hardik-kapadia" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="hardik-kapadia" height="30" width="40" /></a>
-- 🚀 To view projects in specific categories, please view the [starred](https://github.com/thecoderenroute?tab=stars) section
-- 📄 Know about my experiences [Resume]()
+- 🚀 To view projects in specific categories, please view the [starred](https://github.com/thecoderenroute?tab=stars) section <!-- - 📄 Know about my experiences [Resume]() -->
 - 🎮 I am currently playing **Elden Ring**, **CS2** and **Valorant**
 
+<h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>GitHub overview </h3>
+
+<p align="center">
+  <img aligh="center" height = "165" src="https://github-readme-stats.vercel.app/api?username=thecoderenroute&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia Stats" />
+</p>
 
 <h3 align="center"> Languages and Tools </h3>
 <p align="center">
@@ -46,14 +50,13 @@
 
 <br>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">Other Github Stats</h3>
 
 <p align="center">
 <img height ="165" title="Profile summary" alt="Hardik's Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecoderenroute&theme=vue"/>
 </p>
 
 <p align="center">
-  <img aligh="center" height = "165" src="https://github-readme-stats.vercel.app/api?username=thecoderenroute&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia Stats" />
   <img aligh ="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderenroute&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Insta-diagnosis&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia's Top Langiuages" />
 </p>
 <br>
