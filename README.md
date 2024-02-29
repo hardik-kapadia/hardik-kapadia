@@ -17,7 +17,9 @@
 <h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>GitHub overview </h3>
 
 <p align="center">
-  <img aligh="center" height = "165" src="https://github-readme-stats.vercel.app/api?username=thecoderenroute&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia Stats" />
+
+<img src = "https://github-readme-stats.vercel.app/api?username=thecoderenroute&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt = "thecoderenroute's Stats">
+
 </p>
 
 <h3 align="center"> Languages</h3>
