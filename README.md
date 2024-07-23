@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Hardik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> </h1>
 <p align="center"><img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="285px"></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thecoderenroute&style=flat" alt="thecoderenroute" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hardik-kapadia&style=flat" alt="hardik-kapadia" /> 
 </p>
 
 
@@ -9,16 +9,16 @@
 - 🏦 I'm tech enthusiast who enjoys reading and exploring.
 - 💬 Talk to me about tech, fiction, games and current affairs.
 - 💻 I use **.java**, **.py**, and **.dart** the most.
-- 🌱 I’m currently learning **Machine Learning, GoLang** <!-- - 👨‍💻 All of my projects are available at [thecoderenroute.github.io]([thecoderenroute.github.io](https://github.com/thecoderenroute?tab=stars)) -->
+- 🌱 I’m currently learning **Machine Learning, GoLang** <!-- - 👨‍💻 All of my projects are available at [hardik-kapadia.github.io]([hardik-kapadia.github.io](https://github.com/hardik-kapadia?tab=stars)) -->
 - 📫 Write to me at **hardik.kapadia63@gmail.com** or connect with me: <a href="https://linkedin.com/in/hardik-kapadia" target="blank"><img src="https://img.icons8.com/badges/48/linkedin.png" alt="linkedin" width="30" height="30"/><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="hardik-kapadia" height="30" width="40" /></a>
-- 🚀 To view projects in specific categories, please view the [starred](https://github.com/thecoderenroute?tab=stars) section <!-- - 📄 Know about my experiences [Resume]() -->
+- 🚀 To view projects in specific categories, please view the [starred](https://github.com/hardik-kapadia?tab=stars) section <!-- - 📄 Know about my experiences [Resume]() -->
 - 🎮 I am currently playing **Elden Ring**, **Cyberpunk 2077** and **CS2**
 
 <h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>GitHub overview </h3>
 
 <p align="center">
 
-<img src = "https://github-readme-stats.vercel.app/api?username=thecoderenroute&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt = "thecoderenroute's Stats">
+<img src = "https://github-readme-stats.vercel.app/api?username=hardik-kapadia&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt = "Hardik's Stats">
 
 </p>
 
@@ -47,19 +47,19 @@
 <h3 align="center">Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/thecoderenroute/stonks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=stonks&theme=github_dark" />
+  <a href="https://github.com/hardik-kapadia/stonks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardik-kapadia&repo=stonks&theme=github_dark" />
   </a>
   &nbsp&nbsp
-  <a href="https://github.com/thecoderenroute/ReImagine-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=ReImagine-App&theme=github_dark" />
+  <a href="https://github.com/hardik-kapadia/ReImagine-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardik-kapadia&repo=ReImagine-App&theme=github_dark" />
   </a>
-  <a href="https://github.com/thecoderenroute/BookSMart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=BookSMart&theme=github_dark" />
+  <a href="https://github.com/hardik-kapadia/BookSMart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardik-kapadia&repo=BookSMart&theme=github_dark" />
   </a>  
   &nbsp&nbsp
-  <a href="https://github.com/thecoderenroute/stock-portfolio-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecoderenroute&repo=stock-portfolio-management&theme=github_dark" />
+  <a href="https://github.com/hardik-kapadia/stock-portfolio-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardik-kapadia&repo=stock-portfolio-management&theme=github_dark" />
   </a>
 </p>
 
@@ -68,15 +68,15 @@
 <h3 align="center">Other Github Stats</h3>
 
 <p align="center">
-<img height ="165" title="Profile summary" alt="Hardik's Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecoderenroute&theme=vue"/>
+<img height ="165" title="Profile summary" alt="Hardik's Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik-kapadia&theme=vue"/>
 </p>
 
 <p align="center">
-  <img aligh ="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderenroute&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Insta-diagnosis&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia's Top Langiuages" />
+  <img aligh ="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kapadia&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Insta-diagnosis&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hardik Kapadia's Top Langiuages" />
 </p>
 <br>
 <p align='center'>
-  <img src= "https://github-profile-trophy.vercel.app/?username=thecoderenroute" alt="trophy">
+  <img src= "https://github-profile-trophy.vercel.app/?username=hardik-kapadia" alt="trophy">
 </p>
 
 
