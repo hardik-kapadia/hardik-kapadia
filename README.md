@@ -67,6 +67,8 @@
 
 <h3 align="center">Other Github Stats</h3>
 
+<img src = "https://github.com/hardik-kapadia/hardik-kapadia/blob/output/github-contribution-grid-snake2.svg" alt = "snake animation">
+
 <p align="center">
 <img height ="165" title="Profile summary" alt="Hardik's Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik-kapadia&theme=vue"/>
 </p>
